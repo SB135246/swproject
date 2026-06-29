@@ -50,8 +50,7 @@
 - **신고 기능 구현** — ReportService, ReportController 개발
 - **문의 기능 구현** — 문의 Service, Controller 개발
 - **Spring Security 설정** — SecurityConfig 구성
-- **여행 코스 UI 개발** — 코스짜기 화면 구현 및 기능 연동
-- **홈 화면 개발** — 홈 UI 및 기능 구현
+
 
 <br>
 
